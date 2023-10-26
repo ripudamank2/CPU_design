@@ -45,3 +45,4 @@ This document outlines the design of a conceptual CPU architecture that draws in
 ## Performance Monitoring and Control
 
 - Include performance monitoring and control registers to measure and optimize CPU performance.
+
