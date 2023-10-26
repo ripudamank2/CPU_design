@@ -39,4 +39,4 @@ There are several different types of CPU architectures, each with its own design
 13. **Multi-threaded Architectures:**
     - Multi-threaded CPUs can execute multiple threads simultaneously. Examples include simultaneous multi-threading (SMT) in modern processors.
 
-Each of these CPU architectures has its own advantages and trade-offs, and they are tailored for specific use cases and performance requirements. Choosing the right architecture depends on the intended application and design goals.
+Each of these CPU architectures has its own advantages and trade-offs, and they are tailored for specific use cases and performance requirements.
